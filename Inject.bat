@@ -1,0 +1,1 @@
+exiftool -geotag=track.log ./
