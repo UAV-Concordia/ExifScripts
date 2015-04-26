@@ -1,1 +1,1 @@
-exiftool -geotag=track.log ./
+exiftool -geotag=track.log ./images
